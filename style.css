@@ -12,7 +12,7 @@ header, footer
 
 section 
 { padding: 2rem;
-border: 1px solid #; } 
+border: 1px solid #333; } 
 
 ul
  { list-style-type: none; padding: 0; }
