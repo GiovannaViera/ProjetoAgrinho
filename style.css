@@ -19,5 +19,11 @@ ul
  
  li 
  { margin-bottom: 0.5rem; }
+ 
+ img
+ {
+    width: 200px;
+    height: 200px;
+ }
 
          
