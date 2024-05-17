@@ -63,7 +63,7 @@ img {
    height: 200px ;
 }
 body {
-   background-image: url('sua-imagem.jpg'); /* URL da sua imagem de fundo */
+   background-image: url('sua-imagem.jpg'); 
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
