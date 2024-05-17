@@ -62,3 +62,9 @@ img {
    width:200px ;
    height: 200px ;
 }
+body {
+   background-image: url('sua-imagem.jpg'); /* URL da sua imagem de fundo */
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-color: rgba(255, 255, 255, 0.5);}
