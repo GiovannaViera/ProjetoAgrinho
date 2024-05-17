@@ -47,7 +47,7 @@ section {
    background-image: url(safe_image-2\ \(1\).jpg);
 
 }
-.principal .img{
+.img{
    width: 100%;
 	height: 100%;
 	object-fit: cover;
