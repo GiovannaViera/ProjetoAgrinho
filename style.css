@@ -76,3 +76,6 @@ img {
 .textos{
    color: black;
 }
+.imagens{
+   box-shadow: 1px 1px 20px yellow;
+}
