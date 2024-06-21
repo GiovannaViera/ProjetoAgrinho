@@ -77,5 +77,6 @@ img {
    color: black;
 }
 .imagens{
-   box-shadow: 7px 7px 30px rgb(0, 0, 0);
+   /* box-shadow: 7px 7px 30px rgb(0, 0, 0); */
+   border: #333 3px solid;
 }
