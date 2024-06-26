@@ -8,6 +8,7 @@ header {
    background-color: #333;
    color: #f4f4f4	;
    /* padding: 20px 0; */
+   display: inline;
 }
 .logo{
    width: 130px; 
