@@ -9,6 +9,9 @@ header {
    color: #f4f4f4	;
    padding: 20px 0;
 }
+.logo{
+   padding: 10px;
+}
 
 header h1 {
    margin: 10px;
